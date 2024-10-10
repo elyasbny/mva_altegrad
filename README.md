@@ -36,7 +36,7 @@ List of labs:
 * Lab 4: NLP frameworks
 * Lab 5: Deep Learning for Graphs (1/2)
 * Lab 6: Deep Learning for Graphs (2/2)
-* Lab 7:Learning on Sets and Graph Generative Models
+* Lab 7: Learning on Sets and Graph Generative Models
 
 ### Built With
 
