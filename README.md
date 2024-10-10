@@ -28,7 +28,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Labs of MVA [ALTEGRAD - Advanced Learning for text And Graph Data (https://www.master-mva.com/cours/cat-advanced-learning-for-text-and-graph-data-altegrad/)] course.
+Labs of MVA [ALTEGRAD - Advanced Learning for text And Graph Data](https://www.master-mva.com/cours/cat-advanced-learning-for-text-and-graph-data-altegrad/) course.
 List of labs:
 * Lab 1: Neural Machine Translation
 * Lab 2: Graph Mining
